@@ -9,6 +9,12 @@
         "streamlit_app.py"
       ]
     },
+    "features": {
+  "ghcr.io/devcontainers/features/sshd:1": {
+    "version": "latest"
+  }
+}
+,
     "vscode": {
       "settings": {},
       "extensions": [
