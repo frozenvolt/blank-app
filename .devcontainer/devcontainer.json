@@ -1,5 +1,5 @@
 {
-  "name": "Debian SSH Test",
+  "name": "Debian + Python + SSH + Vim",
   "image": "mcr.microsoft.com/devcontainers/base:debian",
 
   "features": {
